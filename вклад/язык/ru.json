@@ -24,7 +24,7 @@
  	"ui": {
  	 	"blackMarket": {
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Распечатать и продайте",
+ 	 	 	 	"trans": "Распечатать и продать",
  	 	 	 	"eng": "Print And Sell"
  	 	 	}
  	 	},
@@ -38,7 +38,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} биткоинов будет внесено на счёт твоей банды. Уверен?",
+ 	 	 	 	 	"trans": "${amount} биткоинов будет внесено на счёт твоей банды. Вы уверены?",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
@@ -137,7 +137,7 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Вы нашли заблокированную сейф с цветной клавиатурой, вы должны разблокировать её, введя правильную последовательность цветов.",
+ 	 	 	 	 	"trans": "Вы нашли заблокированный сейф с цветной клавиатурой, вы должны разблокировать её, введя правильную последовательность цветов.",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
@@ -276,7 +276,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Ты нашел старый запертый сейф, там, кажется, есть наклейка с каким-то текстом, написанным на ней.",
+ 	 	 	 	"trans": "Ты нашел старый запертый сейф, там, кажется, есть стикер с каким-то текстом, написанным на ней.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -365,7 +365,7 @@
  	 	},
  	 	"chatPreview": {
  	 	 	"notConnected": {
- 	 	 	 	"trans": "Чат Система не подключена",
+ 	 	 	 	"trans": "Чат-система не подключена",
  	 	 	 	"eng": "chat system not connected"
  	 	 	}
  	 	},
@@ -449,7 +449,7 @@
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
- 	 	 	 	"trans": "Премиум магазин",
+ 	 	 	 	"trans": "Премиум-магазин",
  	 	 	 	"eng": "Premium Shop"
  	 	 	},
  	 	 	"friendList": {
