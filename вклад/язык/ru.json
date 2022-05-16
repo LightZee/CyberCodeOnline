@@ -24,7 +24,7 @@
  	"ui": {
  	 	"blackMarket": {
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Распечатать и продайте",
+ 	 	 	 	"trans": "Распечатать и продать",
  	 	 	 	"eng": "Print And Sell"
  	 	 	}
  	 	},
